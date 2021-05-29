@@ -17,7 +17,7 @@ body , html {
 ================================================*/
     
 
-@media (min-width: 833px){
+@media (min-width: 833 px){
     
     
     #bg{
@@ -421,7 +421,7 @@ input{
 
 
 
-@media (max-width: 835px){
+@media (max-width: 834px){
     
     
 body{
